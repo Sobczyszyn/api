@@ -4,13 +4,13 @@
       {
         "env": "production",
         "protocol": "http",
-        "host": "pelias-data-container",
+        "host": "elasticsearch.default.svc.cluster.local",
         "port": 9200
       },
       {
         "env": "production",
         "protocol": "http",
-        "host": "pelias-data-container",
+        "host": "elasticsearch.default.svc.cluster.local",
         "port": 9300
       }
     ]
